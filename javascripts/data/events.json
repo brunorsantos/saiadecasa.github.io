@@ -35,6 +35,18 @@
                 "longitude": -38.408381
             },
             "link": "https://www.meetup.com/pt-BR/Docker-Salvador/events/233586565/"
+        },
+	    {
+            "titulo": "LaraconfBrasil",
+            "dataInicio": "2016-10-08",
+            "dataFim": "2016-10-08",
+            "local": "FIAP Faculdade de Tecnologia",
+            "endereco": "Avenida Lins de Vasconcelos, 1264 - Aclimação, São Paulo - SP",
+            "localizacao": {
+                "latitude": -23.5745841,
+                "longitude": -46.6235264
+            },
+            "link": "http://laraconfbrasil.com.br/"
         }
     ]
 }
